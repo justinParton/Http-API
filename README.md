@@ -23,7 +23,7 @@ The files provided can be dropped into any folder, and are typically ready to be
  Make a php file that calls autorun.php, or make a htaccess file that index.php == autorun.php. 
  
  <h4>Making Calls</h4>
- You can make calles using the states.php page, , the uri is provided as $uri, just run it agains logic commands.
+ You can make calles using the states.php page, the uri is provided as $uri, just run it agains logic commands.
 
 <h3>HELP</h3>
  There are probably a million things wrong with this code, so why not help me. If you see anything, drop me a line.
