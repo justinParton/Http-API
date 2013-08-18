@@ -19,7 +19,7 @@ The files provided can be dropped into any folder, and are typically ready to be
  Provided is a stripped down version of a User table in the form of an sql. Users are authenticated using a key
  and secret. Md5 encryptionis preferred, but that is up to you.
 
- <h4>Index file<h4>
+ <h4>Index file</h4>
  Make a php file that calls autorun.php, or make a htaccess file that index.php == autorun.php. 
  
  <h4>Making Calls</h4>
