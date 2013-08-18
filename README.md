@@ -16,10 +16,20 @@ I created this as a need to have upload capability over HTTP for purposes such a
 The files provided can be dropped into any folder, and are typically ready to be fired up at the given address
 
  <h5>DB Setup</h3>
-I chose to not provide a sql file with the db structure becuase its better for this to be custom. Nonetheless,
-the following is an outline of a "typical" install
+ Provided is a stripped down version of a User table in the form of an sql. Users are authenticated using a key
+ and secret. Md5 encryptionis preferred, but that is up to you.
 
-<ul>
-<li>Authentication:</li>
-    Each call to the api is done with authentication. As such each key should be 
+ <h3>Index file<h3>
+ Make a php file that calls autorun.php, or make a htaccess file that index.php == autorun.php. 
+ 
+ <h3>Making Calls</h3>
+ You can make calles using the states.php page, , the uri is provided as $uri, just run it agains logic commands.
 
+<h5>HELP<h5>
+ There are probably a million things wrong with this code, so why not help me. If you see anything, drop me a line.
+ Commit to this GIT repo. or email me at justin.parton[at]gmail.com.
+ 
+<h5>Assistance<h5>
+ If you have questions, ask. I would love to help in any way that i can.
+ 
+ - Justin Parton
