@@ -25,11 +25,11 @@ The files provided can be dropped into any folder, and are typically ready to be
  <h4>Making Calls</h4>
  You can make calles using the states.php page, , the uri is provided as $uri, just run it agains logic commands.
 
-<h3>HELP<h3>
+<h3>HELP</h3>
  There are probably a million things wrong with this code, so why not help me. If you see anything, drop me a line.
  Commit to this GIT repo. or email me at justin.parton[at]gmail.com.
  
-<h3>Assistance<h3>
+<h3>Assistance</h3>
  If you have questions, ask. I would love to help in any way that i can.
  
  - Justin Parton
